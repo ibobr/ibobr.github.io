@@ -7,7 +7,7 @@
 body {
     height: 100%;
     width: 100%;
-    background-color: #212121;
+    background-color: #fff;
 
     display: flex;
     justify-content: center;
@@ -15,7 +15,7 @@ body {
 }
 
 p {
-    color: #fff;
+    color: #000;
     font-size: 50px;
     letter-spacing: 0.05em;
     font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
