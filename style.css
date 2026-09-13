@@ -29,7 +29,7 @@ body {
     position: relative;
     z-index: 2;
     margin-left: 6vw;
-    font-size: clamp(120px, 26vw, 380px);
+    font-size: clamp(120px, 14.85vw, 380px);
     font-weight: 700;
     letter-spacing: -.105em;
     line-height: .78;
@@ -43,7 +43,7 @@ body {
 }
 
 .disc {
-    width: min(58vw, 830px);
+    width: min(32.42vw, 830px);
     aspect-ratio: 1;
     position: absolute;
     top: 55%;
@@ -84,7 +84,7 @@ body {
     }
 
     .disc {
-        width: min(115vw, 500px);
+        width: min(108vw, 500px);
         top: 55%;
     }
 
